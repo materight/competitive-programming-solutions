@@ -1,2 +1,2 @@
-# coding-contests
-My solutions for coding contests
+# Coding contests
+My solutions for different coding contests

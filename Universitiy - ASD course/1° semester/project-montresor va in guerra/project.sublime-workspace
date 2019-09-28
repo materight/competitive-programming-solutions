@@ -1,0 +1,1012 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sol",
+				"soldato_in_target"
+			],
+			[
+				"cos",
+				"Costo"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"from",
+				"from_target"
+			],
+			[
+				"cost",
+				"costMatrix"
+			],
+			[
+				"costo",
+				"costo_min"
+			],
+			[
+				"min",
+				"minX"
+			],
+			[
+				"cso",
+				"costo_scelto"
+			],
+			[
+				"gua",
+				"guadagno"
+			],
+			[
+				"guada",
+				"guadagno_max"
+			],
+			[
+				"comp",
+				"componente_costo_min"
+			],
+			[
+				"compo",
+				"componente"
+			],
+			[
+				"sold",
+				"soldato_costo_min"
+			],
+			[
+				"random",
+				"random_str"
+			],
+			[
+				"pres",
+				"preso_da"
+			],
+			[
+				"coso",
+				"costo_min"
+			],
+			[
+				"dist",
+				"dist_target"
+			],
+			[
+				"dis",
+				"dist_target"
+			],
+			[
+				"ids",
+				"ids_person"
+			],
+			[
+				"rand",
+				"random_str"
+			],
+			[
+				"cyc",
+				"cycle_size_dfs"
+			],
+			[
+				"tempo",
+				"tempo_spegnimento"
+			],
+			[
+				"prim",
+				"primo_spegnimento"
+			],
+			[
+				"temp",
+				"tempo_spegnimento"
+			],
+			[
+				"erd",
+				"erdos"
+			],
+			[
+				"erdo",
+				"erdos_dfs"
+			],
+			[
+				"erod",
+				"erdos_dfs"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"start",
+				"starting_node"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"nodo",
+				"nodo_dest"
+			],
+			[
+				"max",
+				"maxLevel"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"spies",
+				"spies_country_id"
+			],
+			[
+				"se",
+				"serves_country_id"
+			],
+			[
+				"coun",
+				"country_id"
+			],
+			[
+				"m",
+				"mission_id"
+			],
+			[
+				"tot",
+				"total_CIA"
+			],
+			[
+				"missi",
+				"mission_id"
+			],
+			[
+				"co",
+				"country_id"
+			],
+			[
+				"mi",
+				"missions_id"
+			],
+			[
+				"miss",
+				"mission_id"
+			],
+			[
+				"spy",
+				"spy_country"
+			],
+			[
+				"nam",
+				"name1"
+			],
+			[
+				"SA",
+				"SAO2"
+			],
+			[
+				"count",
+				"country_id1"
+			],
+			[
+				"county",
+				"country_id2"
+			],
+			[
+				"found",
+				"foundPos"
+			],
+			[
+				"immag",
+				"immagine_profilo"
+			],
+			[
+				"firma",
+				"firma_digitale"
+			],
+			[
+				"ro",
+				"rowCount"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"tok",
+				"tokenValidTime"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"auth",
+				"auth_result"
+			],
+			[
+				"jsone",
+				"json_decode"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"md-la",
+				"md-layout-item"
+			],
+			[
+				"md-si",
+				"md-size-30"
+			],
+			[
+				"ora",
+				"oraControllo"
+			],
+			[
+				"time",
+				"TimePicker"
+			],
+			[
+				"pre",
+				"prenotazione"
+			],
+			[
+				"pren",
+				"prenotazioni"
+			],
+			[
+				"md-",
+				"md-gutter"
+			],
+			[
+				"data",
+				"dataControllo"
+			],
+			[
+				"or",
+				"oraControllo"
+			],
+			[
+				"id",
+				"idAgricoltore"
+			],
+			[
+				"Vue",
+				"VueMaterial"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"in",
+				"indeterminate"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"am",
+				"ambientevuoto"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"con",
+				"cons"
+			],
+			[
+				"is",
+				"is_ordered"
+			],
+			[
+				"le",
+				"let\tSML 'let' block"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"rende",
+				"renderInputField"
+			],
+			[
+				"label",
+				"label_text"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"render",
+				"renderReportCard"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pro",
+				"prodotto_int"
+			],
+			[
+				"somm",
+				"somma_int"
+			],
+			[
+				"som",
+				"somma_int"
+			],
+			[
+				"f",
+				"fun\tSML 'fun' function"
+			],
+			[
+				"p",
+				"prefissa"
+			],
+			[
+				"somma",
+				"somma_tree"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"http_buil",
+				"http_build_query"
+			],
+			[
+				"pg_fet",
+				"pg_fetch_assoc"
+			],
+			[
+				"pg_",
+				"pg_connect"
+			],
+			[
+				"upload",
+				"uploadOk"
+			],
+			[
+				"fill",
+				"fillColor"
+			],
+			[
+				"file",
+				"filectime"
+			],
+			[
+				"modifc",
+				"modifica"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"notifi",
+				"notification"
+			],
+			[
+				"ob",
+				"object-fit"
+			],
+			[
+				"im",
+				"image-rendering"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"getPa",
+				"getPackageName"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"device",
+				"onDeviceReady"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"b",
+				"button"
+			]
+		]
+	},
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"hex",
+				"HexViewer: Show Hex Edit Panel"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Materiali",
+				"Material Theme: Configuration"
+			],
+			[
+				"Mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 493.0,
+		"history":
+		[
+			"ls",
+			"dir",
+			"sml.bat C:\\Program Files\\Poly ML\\Es\\xor.sml",
+			"sml",
+			"polysml",
+			"sml",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Matteo/Desktop/montersor va in guerra/main4.cpp",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/main3.cpp",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/main2.cpp",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/main.cpp",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/testo.pdf",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output13.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output14.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output11.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output12.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input11.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input12.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input13.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input10.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input7.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input0.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/hungarian.cpp",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/project.sublime-project",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output19.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/map.cpp",
+		"/D/Matteo/Downloads/output (2)",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/output/output0.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input2.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input8.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input9.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input14.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input15.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input16.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input17.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input18.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input19.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/main.exe",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input_steve.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input1.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input4.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input5.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input6.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/input3.txt",
+		"/C/Users/Matteo/Desktop/stderr.txt",
+		"/C/Users/Matteo/Desktop/db-tester.ps1",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output2.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output3.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output4.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output1.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output0.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output18.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output19.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output17.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output14.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output12.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output13.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output11.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output9.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output15.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output10.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output8.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output7.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output5.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output6.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/output/output16.txt",
+		"/D/Matteo/Downloads/output (1)",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/input/input6.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/input/input4.txt",
+		"/C/Users/Matteo/Desktop/montersor va in guerra/dataset/input/input7.txt",
+		"/D/Matteo/Downloads/output",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input11.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input10.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input12.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input13.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input14.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input15.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input16.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input17.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input19.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input0.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input1.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input2.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input3.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input4.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input18.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input7.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input8.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/input/input9.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/input.txt",
+		"/C/Users/Matteo/Desktop/lab algoritmo/dataset_guerra/guerra/output/output19.txt",
+		"/C/Users/Matteo/Desktop/db2-tester - Copia.ps1",
+		"/C/Users/Matteo/Desktop/db.py",
+		"/C/Users/Matteo/Desktop/stdout.txt",
+		"/C/Users/Matteo/Desktop/space(1).cpp",
+		"/C/Users/Matteo/Desktop/db_locale.bat",
+		"/C/Users/Matteo/Desktop/FGportal/database/dati comuni-province/comuni.csv",
+		"/D/Matteo/Downloads/output (3)",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/11-laser/input14.txt",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/11-laser/Da ",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/17-space/input.txt",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/17-space/main.cpp",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/16-batman/input.txt",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/16-batman/main.cpp",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/15-camminolungo/main.cpp",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/13-componente/main.cpp",
+		"/C/Users/Matteo/Desktop/FGportal/database/dati comuni-province/province.csv",
+		"/C/Users/Matteo/Desktop/FGportal/database/Definizione_tabelle.sql",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/14-toporder/input.txt",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/9-diametro/main.cpp",
+		"/D/Matteo/Documents/Superiori/Esercizi programmazione/Olimpiadi_Informatica/2013_maree/main.cpp",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/11-laser/input.txt",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/10-numcammini/main.cpp",
+		"/C/Users/Matteo/Desktop/Nuovo documento di testo.json",
+		"/C/Users/Matteo/Desktop/db/query_3.sql",
+		"/C/Users/Matteo/Desktop/db/query_2.sql",
+		"/C/Users/Matteo/Desktop/db/query_1.sql",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/8-visita/main.cpp",
+		"/C/Users/Matteo/Desktop/Lab algoritmi/6-intervalli/main.cpp",
+		"/D/Xampp/htdocs/rest/statistiche/.htaccess",
+		"/C/Users/Matteo/Desktop/Database/query_8.sql",
+		"/C/Users/Matteo/Desktop/Database/query_7.sql",
+		"/C/Users/Matteo/Desktop/Database/query_6.sql",
+		"/C/Users/Matteo/Desktop/Database/query_5.sql",
+		"/C/Users/Matteo/Desktop/Database/query_4.sql",
+		"/C/Users/Matteo/Desktop/Database/query_3.sql",
+		"/C/Users/Matteo/Desktop/Database/query_2.sql",
+		"/C/Users/Matteo/Desktop/Database/query_1.sql",
+		"/C/Users/Matteo/Desktop/Database/query_9.sql",
+		"/C/Users/Matteo/Desktop/g-consulting/.env.production",
+		"/C/Users/Matteo/Desktop/G.Consulting/server/rest/auth/Auth.php",
+		"/C/Users/Matteo/Desktop/G.Consulting/server/rest/auth/AuthHandler.php",
+		"/D/Matteo/Downloads/Telegram Desktop/insert_values.sql"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"C:\\Users\\Matteo\\Desktop\\new",
+			"D:\\Xampp\\htdocs\\rest",
+			"C:\\Program Files\\EasyPHP-Devserver\\eds-www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"N",
+			"L",
+			"visited",
+			"seen",
+			"dad",
+			"cout",
+			"DBL",
+			"double",
+			"d",
+			"fabs",
+			"DBL",
+			"double",
+			"Solve",
+			"con",
+			"-1",
+			"input7",
+			",",
+			"print",
+			"commit",
+			"ids",
+			"RYP",
+			"N",
+			"N-",
+			"N - 1",
+			"eprint",
+			"print",
+			"eprint",
+			"buildResponseUM",
+			"ROMA",
+			"\"",
+			"\"(.*?)\"",
+			"partenza",
+			"report",
+			"numero",
+			"report",
+			"abbonamento_a",
+			"report",
+			"date",
+			"numero",
+			"getFatturatoRicambi",
+			"fattura",
+			"exit",
+			"die",
+			"}\n",
+			"\"",
+			"(10, 1)",
+			"\">\n",
+			"n_sca",
+			"max",
+			"\\n",
+			"/",
+			"\\\\\\\\",
+			"\\\\",
+			"[^\\]\\\\",
+			"[^\\]\\",
+			"\\",
+			"\\n",
+			"\\/",
+			"\\n",
+			"\\/.\\\"",
+			"\\/4\"",
+			"\\/.\"",
+			"\\\\/.\"",
+			"1\\\\\\/.\"",
+			"1\\/.\"",
+			"\\n",
+			"\\\\",
+			"40",
+			"caterories",
+			"</ap",
+			"AleX",
+			"Alex",
+			"unita_mobile",
+			"min",
+			"sdk",
+			"min",
+			"recyclerView",
+			"$",
+			"btn",
+			"button",
+			"\";\n",
+			"somma",
+			"it",
+			"\"IT\"",
+			"\"it\"",
+			"it",
+			"password",
+			"password_verify",
+			"password_hash",
+			"md5",
+			"password",
+			"md5",
+			"> 0",
+			"array_push",
+			"7",
+			"array_push",
+			"REST_TOKEN",
+			"md5",
+			"password_hash",
+			"md5",
+			"save_profile_image",
+			"immagine_profilo",
+			"save_profile_image",
+			"profile",
+			"platform",
+			"imagecreatefromjpeg",
+			"get_scansione_firma",
+			"invia_mail_tecnico",
+			"updateFotoProfilo",
+			"delete_old_profile_image",
+			"save_profile_image",
+			"delete_old_profile_image",
+			"exit",
+			"echo",
+			"exit;",
+			"delete_old_profile_image",
+			"exit",
+			"delete_old_profile_image",
+			"tecnico",
+			"id_tecnico",
+			"_REQUEST",
+			"id_tecnico",
+			"tecnico",
+			"delete_old_profile_image",
+			"222",
+			"scansione_",
+			"firma_digitale",
+			"scansione_firma"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"S_prende",
+			"visited",
+			"parent",
+			"int",
+			"\\1",
+			"]",
+			"\\\\n",
+			"/",
+			"",
+			"scansione_firma",
+			"prenotazione"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 96.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 74.4
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
