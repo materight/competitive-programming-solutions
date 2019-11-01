@@ -12,7 +12,10 @@ typedef struct seed {
     int i, x, p;
     seed() : seed(-1, -1, -1){};
     seed(int _i, int _x, int _p) : i(_i), x(_x), p(_p){};
-    bool operator<(const seed& s) const { return x < s.x; }
+    bool operator<(const seed& s) const {
+        if (x == s.x) return p > s.p;
+        return x < s.x;
+    }
 } seed;
 
 typedef struct irr {
@@ -38,6 +41,7 @@ void irriga(int C, int N, vector<int>& X, vector<int>& P) {
             tot += C + s.p;
         } else if (last_irr.x == s.x) {
             // Ultimo irrigatore sopra il seme, aumento solo t SE serve.
+            // Se t > p, il seme è già coperto dall'irrigatore, quindi non faccio niente
             if (last_irr.t < s.p) {
                 tot += (s.p - last_irr.t);
                 last_irr.t = s.p;

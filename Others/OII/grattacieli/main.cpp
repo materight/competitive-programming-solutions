@@ -21,7 +21,7 @@ void bfs(int start, graph& G, vector<long long>& max_H, vector<long long>& H) {
         q.pop();
         for (node n : G[u]) {
             int v = n.adj;
-            if (H[v] == -1 || H[u] + n.w < H[v]) {  // Nuovo conflitto da risolvere rianializzando il grafo e il nodo
+            if (H[v] == -1 || H[u] + n.w < H[v]) {  // Nuovo conflitto da risolvere rianalizzando il grafo e il nodo
                 H[v] = min(H[u] + n.w, max_H[v]);
                 q.push({H[v], v});
             }
