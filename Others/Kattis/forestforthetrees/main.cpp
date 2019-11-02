@@ -20,6 +20,10 @@ int main(int argc, char** argv) {
     } else if (x1 >= xq1 && y1 >= yq1 && x1 <= xq2 && y1 <= yq2) {
         ll i = min(ceil((ld)xq2 / (ld)x1), ceil((ld)yq2 / (ld)y1));
         ll xf = x1 * i, yf = y1 * i;
+        if (xf == xq2 || yf == yq2) {
+            xf = x1 * (i + 1);
+            yf = y1 * (i + 1);
+        }
         if (xf < xb && yf < yb) {
             cout << "No" << endl
                  << xf << " " << yf << endl;
