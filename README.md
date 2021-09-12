@@ -1,2 +1,2 @@
 # Coding contests
-My solutions for some of the coding contests I attended.
+My solutions to some of the coding contests I attended.
